@@ -1,4 +1,4 @@
-module github.com/oleg/opgoweblib
+module github.com/OlegPuchinin123/opgoweblib
 
 go 1.17
 
